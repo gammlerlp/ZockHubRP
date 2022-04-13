@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://source.unsplash.com/random/720x400"
+          src="https://cdn.discordapp.com/attachments/858687735695015957/963799671371858011/car-1880381.jpg"
         />
       </div>
     </div>
