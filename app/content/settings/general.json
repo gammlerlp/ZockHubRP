@@ -1,10 +1,10 @@
 {
-  "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
-  "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "title": "ZockHub",
+  "titleTemplate": "| RolePlay",
+  "welcomeText": "# Wilkommen auf der Website von ZockHub Roleplay\n\nHier findest du alle Informationen zu ZockHub RP, Leaks, Fotos und einen Newsletter wo du dich auch registrieren kannst.",
+  "logo": "/images/uploads/icon-1976100.svg",
+  "icon": "https://cdn.discordapp.com/attachments/843776548628856852/843777310686576650/Monogram-ZH-Logo-Design-by-Greenlines-Studios-removebg-preview.png",
+  "loadingColor": "#00F0FF",
+  "seoDescription": "Hier findest du alle Informationen zu ZockHub RP, Leaks, Fotos und einen Newsletter wo du dich auch registrieren kannst.",
   "seoMetaImage": ""
 }
